@@ -19,7 +19,7 @@ If there are any numerical error, replace it with 0%
 Print the top 5 teams which has the highest Winning percentage
 
 
-6. Group teams based on their “Best position” and print the sum of their points for all positions (10 points)
+6. Group teams based on their “Best position” and print the sum of their points for all positions
 
 Eg: Best Position     Points
 
